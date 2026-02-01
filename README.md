@@ -1,11 +1,3 @@
-You’re very close 👍 — it’s just **Markdown formatting errors** (missing code fences and numbering).
-Below is the **corrected, clean, GitHub-ready version**.
-
-👉 **Replace your current README content with this exactly**:
-
----
-
-````markdown
 # Inventory Management System 📦
 
 A menu-driven **Inventory Management System** built using **Python, Streamlit, MySQL, and Pandas**.  
@@ -40,7 +32,7 @@ The application supports full CRUD operations and generates downloadable PDF sto
    ```bash
    git clone https://github.com/your-username/inventory-management-system.git
    cd inventory-management-system
-````
+
 
 2. **Install required dependencies**
 
@@ -75,7 +67,3 @@ The application supports full CRUD operations and generates downloadable PDF sto
 
 ```
 
----
-
-
-```
